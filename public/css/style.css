@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Source Sans Pro';
-  src: url("https://cdn.jsdelivr.net/gh/qianxun365/hexo-theme-vexo@public/fonts/SourceSansPro.ttf");
+  src: url("https://cdn.staticaly.com/gh/qianxun365/vexo-cdn@main/public/fonts/SourceSansPro.ttf");
 }
 ::selection {
   background: #fd4c5d;
@@ -228,7 +228,7 @@ h2.article-head {
   float: left;
 }
 .money-like .money-code .alipay-code .code-image {
-  background-image: url("https://cdn.staticaly.com/gh/qianxun365/hexo-theme-vexo@public/css/images/alipay.jpg");
+  background-image: url("https://cdn.staticaly.com/gh/qianxun365/vexo-cdn@main/public/css/images/alipay.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   width: 4.5em;
@@ -238,7 +238,7 @@ h2.article-head {
   float: right;
 }
 .money-like .money-code .wechat-code .code-image {
-  background-image: url("https://cdn.staticaly.com/gh/qianxun365/hexo-theme-vexo@public/css/images/wechat.jpg");
+  background-image: url("https://cdn.staticaly.com/gh/qianxun365/vexo-cdn@main/public/css/images/wechat.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   width: 4.5em;
@@ -312,7 +312,7 @@ h2.article-head {
   box-shadow: 0 0 3px 0 rgba(0,0,0,0.12), 0 3px 3px 0 rgba(0,0,0,0.24);
 }
 .scroll-top .arrow-icon {
-  background-image: url("https://cdn.staticaly.com/gh/qianxun365/hexo-theme-vexo@public/css/images/top.png");
+  background-image: url("https://cdn.staticaly.com/gh/qianxun365/vexo-cdn@main/public/css/images/top.png");
   width: 30px;
   height: 30px;
   display: block;
@@ -360,7 +360,7 @@ h2.article-head {
   }
 }
 .logo {
-  background: url("https://cdn.staticaly.com/gh/qianxun365/hexo-theme-vexo@public/css/images/logo.png");
+  background: url("https://cdn.staticaly.com/gh/qianxun365/vexo-cdn@main/public/css/images/logo.png");
   background-size: contain;
   width: 40px;
   height: 40px;
@@ -1019,7 +1019,7 @@ h2.article-head {
   height: 22px;
   left: 0;
   top: 2px;
-  background: url("https://cdn.staticaly.com/gh/qianxun365/hexo-theme-vexo@public/css/images/catalog.png") no-repeat;
+  background: url("https://cdn.staticaly.com/gh/qianxun365/vexo-cdn@main/public/css/images/catalog.png") no-repeat;
   background-size: contain;
 }
 .catalog-container .toc-main .toc-nav {
